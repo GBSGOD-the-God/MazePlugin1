@@ -1,7 +1,7 @@
 package com.suryanshworld.mazeplugin;
 
 import com.suryanshworld.events.MazeEventListener;
-import com.suryanshworld.mazeplugin.command.LeaderboardCommand;
+import com.suryanshworld.command.LeaderboardCommand;
 import com.suryanshworld.command.MazeCommand;
 import com.suryanshworld.mazeplugin.manager.MazeWorldManager;
 import com.suryanshworld.mazeplugin.manager.ScoreboardManager;
