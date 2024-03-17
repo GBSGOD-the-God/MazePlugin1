@@ -1,4 +1,4 @@
-package com.suryanshworld.mazeplugin.command;
+package com.suryanshworld.command;
 
 import com.suryanshworld.mazeplugin.manager.TimerManager;
 import org.bukkit.command.Command;
