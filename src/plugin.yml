@@ -1,0 +1,13 @@
+name: MazePlugin
+version: 1.0
+description: A plugin that adds a maze challenge to Minecraft.
+author: GBSGOD
+main: com.suryanshworld.mazeplugin.MazePlugin
+api-version: 1.17
+commands:
+  startmaze:
+    description: Start the maze challenge.
+    usage: /<command>
+  leaderboard:
+    description: Display the leaderboard.
+    usage: /<command>
